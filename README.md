@@ -1,3 +1,6 @@
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
+
 # 💫 About Me:
 🔭 I’m currently working on ASP.NET Core WebAPI<br>👯 I’m looking for a job in .NET<br>🤝 I’m looking for help with developing WebAPI and Microservices<br>🌱 I’m currently learning ASP.NET Core, Microservice architecture<br>💬 Ask me about Clean architecture
 
