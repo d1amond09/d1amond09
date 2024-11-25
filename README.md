@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d1amond09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d1amond09) 
 
 # 💻 Tech Stack:
-![C# / .NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![C# / .NET](https://img.shields.io/badge/%20C%23_/_.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![WPF](https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logo=wpf&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=asp.net_core&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
