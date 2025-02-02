@@ -4,9 +4,13 @@
 # 💫 About Me:
 🔭 I’m currently working on ASP.NET Core WebAPI<br>👯 I’m looking for a job in .NET<br>🤝 I’m looking for help with developing WebAPI and Microservices<br>🌱 I’m currently learning ASP.NET Core, Microservice architecture<br>💬 Ask me about Clean architecture
 
+[![Codewars](https://www.codewars.com/users/D1amond/badges/large)](https://www.codewars.com/users/D1amond)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d1amond09) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d1amond09) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/d1amond09) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d1amond09) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/d1amond09) 
+
 
 # 💻 Tech Stack:
 ![C# / .NET](https://img.shields.io/badge/%20C%23_/_.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
