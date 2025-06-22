@@ -13,6 +13,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=wpf&logoColor=white) 
 ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=winforms&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-5C2D91?style=for-the-badge&logo=cloudinary&logoColor=white) 
 
 ## ORMs
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-5C2D91?style=for-the-badge&logo=ef&logoColor=white)
@@ -43,6 +44,7 @@
 ## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Docker-Compose](https://img.shields.io/badge/docker_compose-%230db7ed?style=for-the-badge&logo=docker_compose&logoColor=white) 
 
