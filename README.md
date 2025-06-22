@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/%20C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white) 
-![.NET](https://img.shields.io/badge/%20C%23_/_.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![.NET](https://img.shields.io/badge/%20.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=asp.net_core&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=wpf&logoColor=white) 
@@ -37,7 +37,7 @@
 ## Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgres&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Redis](https://img.shields.io/badge/redis-CC2927?style=for-the-badge&logo=redis&logoColor=white) 
 
 ## Tools
