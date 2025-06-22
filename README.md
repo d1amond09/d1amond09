@@ -37,8 +37,8 @@
 ## Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23316192.svg?style=for-the-badge&logo=redis&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgres&logoColor=white) 
+![Redis](https://img.shields.io/badge/redis-CC2927?style=for-the-badge&logo=redis&logoColor=white) 
 
 ## Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
