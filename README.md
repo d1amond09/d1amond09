@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Docker-Compose](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker-Compose](https://img.shields.io/badge/docker_compose-%230db7ed?style=for-the-badge&logo=docker_compose&logoColor=white) 
 
 ## GameDev
 ![Unity](https://img.shields.io/badge/Unity-5C2D91?style=for-the-badge&logo=unity&logoColor=white) 
