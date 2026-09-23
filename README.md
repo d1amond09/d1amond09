@@ -107,7 +107,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=d1amond09&icon=2&color=1" alt="Visitor Count"/>
+  [![](https://visitcount.itsvg.in/api?id=d1amond09&icon=2&color=1)](https://visitcount.itsvg.in)
 </p>
 
 <p align="center">
