@@ -107,9 +107,5 @@
 ---
 
 <p align="center">
-  [![](https://visitcount.itsvg.in/api?id=d1amond09&icon=2&color=1)](https://visitcount.itsvg.in)
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Made_with-Markdown-1f425f.svg" alt="Made with Markdown"/>
 </p>
